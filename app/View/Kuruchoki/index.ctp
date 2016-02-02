@@ -1,6 +1,6 @@
 <div class="main">
 
-くるちょきっ！
+くるちょきいいいいいいいいっ！
 
 <style type="text/css">
     #canvas-wrapper {
